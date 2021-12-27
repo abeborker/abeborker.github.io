@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affilissaions</a>. Address. Contacts. Moto. Etc.
+description: Educator, Ecologist, Nature Detective
 
 profile:
   align: right
