@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ecologisty, Educator, Nature Detective<br>
+description: Ecologist, Educator, Nature Detective<br>
 			Program Director, <a href="#">UCSC Doris Duke Conservation Scholars Program</a>.
 
 profile:
