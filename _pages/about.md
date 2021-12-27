@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ecologisty, Educator, Nature Detective<br>
+			Program Director, <a href="#">UCSC Doris Duke Conservation Scholars Program</a>.
 
 profile:
   align: right
