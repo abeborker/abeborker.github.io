@@ -2,19 +2,18 @@
 layout: about
 title: about
 permalink: /
-description: Ecologist, Educator, Nature Detective<br>
-			Program Director, <a href="#">UCSC Doris Duke Conservation Scholars Program</a>.
+description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Center for Ocean Health</p>
-    <p>115 McAllister Way</p>
-    <p>Santa Cruz, CA 95060</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
