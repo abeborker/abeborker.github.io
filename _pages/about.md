@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affilissaions</a>. Address. Contacts. Moto. Etc.<br>
-fddd
+description: <a href="#">Affilissaions</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
