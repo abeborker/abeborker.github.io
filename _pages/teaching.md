@@ -17,7 +17,6 @@ My general teaching philosophy in ecology and conservation revolves around creat
 <blockquote>Erika S. Zavaleta, Roxanne S. Beltran, and **Abraham L. Borker**: **<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30220-2" target="_blank" rel="noopener noreferrer">How Field Courses Propel Inclusion and Collective Excellence</a>**. Trends in Ecology & Evolution 11/2020; DOI:10.1016/j.tree.2020.08.005</blockquote>
 
 ###Courses Taught:
-
   * [Doris Duke Conservation Scholars Program (UCSC)](https://conservationscholars.ucsc.edu/)
       * An immersive six-week field course in conservation science and leadership, including elements of: ecological field research, natural history, research design, sampling, statistics, communication, leadership, writing, and presentation skills.
   * Introduction to Field Research and Conservation (UCSC)

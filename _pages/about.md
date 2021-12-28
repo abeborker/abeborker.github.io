@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Educator, Ecologist, Nature Detective, Program Director @ <a href="https://conservationscholars.ucsc.edu/">UCSC DDCSP</a>
 
