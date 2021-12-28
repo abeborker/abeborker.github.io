@@ -54,15 +54,6 @@
                 <span class="sr-only">(current)</span>
                 {% endif %}
               </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              {% for child in p.children %}
-              {% if child.title == 'divider' %}
-                <div class="dropdown-divider"></div>
-              {% else %}
-                <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
-              {% endif %}
-              {% endfor %}
-              </div>
           </li>
           {% else %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
