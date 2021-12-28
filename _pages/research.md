@@ -1,28 +1,11 @@
 ---
-id: 4
-title: Research
-date: 2015-11-07T17:54:35+00:00
-author: abeborker
 layout: page
-guid: http://neverstopnerding.com/?page_id=4
-tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:25;s:11:"_thumb_type";s:10:"attachment";}'
-layout_key:
-  - f
-post_slider_check_key:
-  - "0"
-vsw_pmvw_video_source:
-  - YouTube
-vsw_pmvw_video_id:
-  - ""
-vsw_pmvw_video_width:
-  - ""
-vsw_pmvw_video_height:
-  - ""
-vsw_pmvw_video_caption:
-  - ""
-vsw_pmvw_video_autoplay:
-  - "0"
+title: projects
+permalink: /research/
+description: Research
+nav: true
+display_categories: [work]
+horizontal: false
 ---
  
 
