@@ -4,6 +4,8 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
+display_categories: [work]
+horizontal: false
 ---
 
 As the Program Director of the [Doris Duke Conservation Scholars Program](https://conservationscholars.ucsc.edu/) at the University of California &#8211; Santa Cruz, It is my privilege to directly mentor, teach, and advise outstanding undergraduate Scholars from across the US. The two-year program combines experiential education in conservation research and leadership, with nation-wide internships in conservation practice. Our goal is to grow diverse leadership to strengthen conservation efforts.
