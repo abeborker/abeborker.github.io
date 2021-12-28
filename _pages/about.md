@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Hello!**  Things on this website fall into three categories
 <ul>
-  <li>**Teaching** - Training the next generation of scientists and conservation leaders, and researching effective approaches </li>
+  <li>Teaching</li> - Training the next generation of scientists and conservation leaders, and researching effective approaches </li>
   <li>**Research** - Broadly interested in useful applied research that informs protecting biodiversity</li>
   <li>**Media** - I like to take pretty pictures, and tell stories with multimedia</li>
   <li>**Everything Else** - That's the point of a personal website right?  Recipes and more.</li>
