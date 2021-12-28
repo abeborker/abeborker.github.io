@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there.  Things on this website fall into three categories
+**Hello!**  Things on this website fall into three categories
 <ul>
   <li>**Teaching** - Training the next generation of scientists and conservation leaders, and researching effective approaches </li>
   <li>**Research** - Broadly interested in useful applied research that informs protecting biodiversity</li>
