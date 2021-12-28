@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 display_categories: [work]
@@ -12,11 +12,11 @@ As the Program Director of the [Doris Duke Conservation Scholars Program](https:
 
 My general teaching philosophy in ecology and conservation revolves around creating transcendent experiences of discovery, identity formation, and connection that serve as lifelong touchstones for passion around the natural world and conservation. These experiences are different for every student, ranging from ecological discovery fueled by a masterful understanding of linear regression, frolicking through a field of alpine flora, to a meaningful dialogue with an invited speaker. My goal as an educator and mentor is to excite students via those experiences and use inquiry-based and experiential learning approaches to teach analytical, communication, and leadership skills. Ultimately my goal as a mentor is to help students to see themselves as leaders in making the changes they want to see in the world.
 
-Related Publications:
+###Related Publications:
 
-Erika S. Zavaleta, Roxanne S. Beltran, and **Abraham L. Borker**: **<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30220-2" target="_blank" rel="noopener noreferrer">How Field Courses Propel Inclusion and Collective Excellence</a>**. Trends in Ecology & Evolution 11/2020; DOI:10.1016/j.tree.2020.08.005
+<blockquote>Erika S. Zavaleta, Roxanne S. Beltran, and **Abraham L. Borker**: **<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(20)30220-2" target="_blank" rel="noopener noreferrer">How Field Courses Propel Inclusion and Collective Excellence</a>**. Trends in Ecology & Evolution 11/2020; DOI:10.1016/j.tree.2020.08.005</blockquote>
 
-Courses Taught:
+###Courses Taught:
 
   * [Doris Duke Conservation Scholars Program (UCSC)](https://conservationscholars.ucsc.edu/)
       * An immersive six-week field course in conservation science and leadership, including elements of: ecological field research, natural history, research design, sampling, statistics, communication, leadership, writing, and presentation skills.
