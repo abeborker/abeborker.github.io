@@ -11,6 +11,7 @@ I am interested in conservation as an applied pursuit to build resiliency in spe
 
 My interest in monitoring stems from a desire to empower conservation practitioners to accurately measure outcomes, and find the best solutions. Evidence-based conservation can only progress if we have the scalable and powerful tools to gather evidence on conservation outcomes. It&#8217;s this direction, our diverse portfolio of powerful conservation actions, and passionate conservationists worldwide that gives me hope in the face of global environmental crisis. &#8211; November 5th, 2017
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class="container">
   <div class="row">
     <div class="col-sm">
