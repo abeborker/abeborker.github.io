@@ -31,24 +31,7 @@
               {% endif %}
             </a>
           </li>
-			<!-- Teaching -->
-          <li class="nav-item {% if page.title == 'Teaching' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              Teaching
-              {% if page.title == "Teaching" %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
-		  <!-- Research -->
-          <li class="nav-item {% if page.title == 'Research' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              Research
-              {% if page.title == "Research" %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
+			
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -65,7 +48,6 @@
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}
-          
           {% else %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
               <a class="nav-link" href="{{ p.url | relative_url }}">
