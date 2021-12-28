@@ -1,20 +1,20 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /research/
-description: Research
+description:
 nav: true
 display_categories: [work]
 horizontal: false
 ---
- 
-
 I am interested in conservation as an applied pursuit to build resiliency in species, ecosystems and human communities. Much of my research has focused on using bioacoustics and soundscape ecology to learn about ecosystem states and wildlife populations. Most of it focuses on seabirds, a highly threatened and ecologically important group of birds that &#8220;make their living&#8221; on the ocean. I also go gaga over their amazing life histories, physiological feats, and conservation, and this even occasionally extends to some other large marine predators.
 
 My interest in monitoring stems from a desire to empower conservation practitioners to accurately measure outcomes, and find the best solutions. Evidence-based conservation can only progress if we have the scalable and powerful tools to gather evidence on conservation outcomes. It&#8217;s this direction, our diverse portfolio of powerful conservation actions, and passionate conservationists worldwide that gives me hope in the face of global environmental crisis. &#8211; November 5th, 2017
 
-<div class="wp-block-columns has-2-columns">
-  <div class="wp-block-column">
+:::::: {.cols data-latex=""}
+
+::: {.col data-latex="{0.55\textwidth}"}
+
     <p>
       <strong>Publications</strong>
     </p>
@@ -86,9 +86,17 @@ My interest in monitoring stems from a desire to empower conservation practition
     <p>
       Matthew W McKown, Martin Lukac, <strong>Abraham Borker</strong>, Bernie Tershy, Don Croll:<a href="http://scitation.aip.org/content/asa/journal/jasa/132/3/10.1121/1.4755484" target="_blank" rel="noopener noreferrer"><strong> A wireless acoustic sensor network for monitoring wildlife in remote locations.</strong></a> The Journal of the Acoustical Society of America 09/2012; 132(3):2036. DOI:10.1121/1.4755484
     </p>
-  </div>
-  
-  <div class="wp-block-column">
+:::
+
+::: {.col data-latex="{0.05\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.col data-latex="{0.4\textwidth}"}
+
+
     <p>
       <strong>Media Coverage</strong>
     </p>
@@ -152,13 +160,5 @@ My interest in monitoring stems from a desire to empower conservation practition
     <p>
       <a href="http://www.boston.com/news/science/articles/2008/02/10/the_great_woodpecker_hunt/?page=full" target="_blank" rel="noopener noreferrer">The great woodpecker hunt</a> <em>The Boston Globe</em> February 10, 2008
     </p>
-  </div>
-</div>
-
-<div class="wp-block-columns has-2-columns">
-  <div class="wp-block-column">
-  </div>
-  
-  <div class="wp-block-column">
-  </div>
-</div>
+  :::
+::::::
