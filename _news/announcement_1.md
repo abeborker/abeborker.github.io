@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2021-10-10 15:59:00-0400
+date: 2022-05-03 15:59:00-0400
 inline: true
 ---
 
-UC Santa Cruz Magazine highlighted DDCSP and other UCSC field programs, we got the cover! <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://magazine.ucsc.edu/2021/10/the-outdoors-opens-doors-to-success/" target="_blank">The outdoors opens doors &#8212; to success<br /></a>
+The <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://mailchi.mp/ucsc/spring-2022-ucsc-ddcsp-newsletter" target="_blank">latest DDCSP Newsletter is out, announcing our **seventh** cohort of Conservation Scholars!</a>  Check out <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://us20.campaign-archive.com/home/?u=11b82af103f3b09997f6c703e&id=fce86adc44" target="_blank">past newsletters</a> and <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://mailchi.mp/af5f0ea9dfaa/ddcspnews" target="_blank">subscribe here</a>.
+
+https://us20.campaign-archive.com/home/?u=11b82af103f3b09997f6c703e&id=fce86adc44
