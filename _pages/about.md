@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Educator, Ecologist, Nature Detective<br>
-Assistant Teaching Professor @ <a href="https://eeb.ucsc.edu/">UCSC Department of Ecology and Evolutionary Biology</a><br>
-Program Director @ <a href="https://conservationscholars.ucsc.edu/">UCSC Doris Duke Conservation Scholars Program</a>
+description: Educator, Ecologist, Nature Detective<br> Assistant Teaching Professor @ <a href="https://eeb.ucsc.edu/">UCSC Department of Ecology and Evolutionary Biology</a><be> Program Director @ <a href="https://conservationscholars.ucsc.edu/">UCSC Doris Duke Conservation Scholars Program</a>
 
 profile:
   align: right
