@@ -18,8 +18,24 @@ My interest in monitoring stems from a desire to empower conservation practition
     <p>
       <strong>Publications</strong>
     </p>
+
+        <div class="altmetric-embed" style="float: left; clear: left; padding-right: 5px;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/au.30413" data-hide-no-mentions="true">
+      &nbsp;
+    </div>
     
-    <div class="altmetric-embed" style="float: left; clear: left; padding-right: 5px;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-021-01522-z" data-hide-no-mentions="true">
+    <p>
+      Lina M Arcila Hernández, <strong>Abraham Borker</strong>, Roxanne S Beltran, Alexandra I Race, Erika S Zavaleta
+ <strong><a href="https://onlinelibrary.wiley.com/doi/10.1002/au.30413" target="_blank" rel="noopener noreferrer">Fostering Inclusion in the Life Sciences through Course-Based Field Research Experiences.</a></strong> Assessment Update 9/2024; DOI:10.1002/au.30413
+    </p>
+        <div class="altmetric-embed" style="float: left; clear: left; padding-right: 5px;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/fee.2804" data-hide-no-mentions="true">
+      &nbsp;
+    </div>
+    
+    <p>
+      Roxanne S Beltran, Nikolas J Kaplanis, Lina M Arcila‐Hernández, Erika S Zavaleta, Robin C Dunkin, <strong>Abraham L Borker</strong> <strong><a href="https://www.nature.com/articles/s41559-021-01522-z" target="_blank" rel="noopener noreferrer">Time to close the knowledge–practice gap in field teaching</a></strong> Frontiers in Ecology & Evolution 102024; DOI:10.1002/fee.2804
+    </p>
+    
+<div class="altmetric-embed" style="float: left; clear: left; padding-right: 5px;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41559-021-01522-z" data-hide-no-mentions="true">
       &nbsp;
     </div>
     
