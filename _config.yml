@@ -196,6 +196,10 @@ exclude:
   - _pages/cv.md
   - _pages/people.md
   - assets/jupyter/blog.ipynb
+  - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/books.md
+  - _pages/news.md
 keep_files:
   - CNAME
   - .nojekyll
