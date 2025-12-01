@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Hello!**  Things on this website fall into three categories
-<p> <b>Teaching</b> - Training the next generation of scientists and conservation leaders, and researching inquiry based pedagogy
-<p> <b>Research</b> - I enjoy answering useful questions that can help us protecting biodiversity.  I'm really keen on soundscapes and biodiviersity monitoring improvements to drive more positive conservation outcomes.
-<p> <b>Multimedia</b> - I like to take pictures, and tell stories with multimedia.  One day I'll organize it on to this website!  In the meantime here's a <a href="https://photos.app.goo.gl/d1hXL6PAeRPsiBH37">gallery of some of my wildlife photography </a>, and pictures of Antarctic <a href="https://photos.app.goo.gl/XoL5auKH9mZe6Yem7">birds</a>, <a href="https://photos.app.goo.gl/xNG7zHKgsgyMQF628">mammals</a> and <a href="https://photos.app.goo.gl/KMKsVxezwwG52vJ49">landscapes</a>.  Oh and <a href="https://photos.app.goo.gl/B6KVCwHTnC3wTpx89">plankton</a>, because they are amazing.
+**Hello!**  This website is **under construction**
+Things on this website fall into three categories
+<p> <b>Teaching</b> - Training the next generation of scientists and conservation leaders, and researching inquiry-based pedagogy
+<p> <b>Research</b> - I enjoy answering useful questions that can help us both broaden the conservation efforts, and increase its effectiveness.  I'm really keen on measuring outcomes to drive potent actions, either in students or biodiversity!  I quite enjoy birds, and much of my ecological research has revolved around bioacoustics and wildlife monitoring.
+<p> <b>Multimedia</b> - I like to take pictures and tell stories with multimedia.  One day I'll organize it on to this website!  In the meantime here's a <a href="https://photos.app.goo.gl/d1hXL6PAeRPsiBH37">gallery of some of my wildlife photography </a>, and pictures of Antarctic <a href="https://photos.app.goo.gl/XoL5auKH9mZe6Yem7">birds</a>, <a href="https://photos.app.goo.gl/xNG7zHKgsgyMQF628">mammals</a> and <a href="https://photos.app.goo.gl/KMKsVxezwwG52vJ49">landscapes</a>.  Oh and <a href="https://photos.app.goo.gl/B6KVCwHTnC3wTpx89">plankton</a>, because they are amazing.
